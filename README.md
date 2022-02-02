@@ -9,9 +9,7 @@ I'm a Los Angeles based Full Stack Web Developer. As a problem solver who loves 
 - 💬 Ask me about space or bonsai. 
 - 📫 How to reach me: j.t.hernandez999@gmail.com
 <!-- - 😄 Pronouns: ... -->
-- ⚡ Fun fact: ... I consider my self an amateur astronomer. I own a CPC 800 GPS (XLT) COMPUTERIZED TELESCOPE. 
-
-
+- ⚡ Fun fact: ... I consider myself an amateur astronomer. I own a CPC 800 GPS (XLT) COMPUTERIZED TELESCOPE. 
 
 
 “Dwell on the beauty of life. Watch the stars, and see yourself running with them.” — Marcus Aurelius, Meditations
