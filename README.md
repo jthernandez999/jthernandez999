@@ -22,3 +22,4 @@ I'm a Los Angeles based Full Stack Web Developer. As a problem solver who loves 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jthernandez999&show_icons=true&theme=tokyonight)
 
+![](https://visitor-badge.laobi.icu/badge?page_id=jthernandez999.CharalambosIoannou)
