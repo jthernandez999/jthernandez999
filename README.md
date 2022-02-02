@@ -40,7 +40,15 @@ I'm a Los Angeles based Full Stack Web Developer. As a problem solver who loves 
  <img src="https://camo.githubusercontent.com/e56d586bf373ad33a4e8c7101246d54d5edc0fb52b87d309b899ce4818bd6086/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170" alt="Python" height="40" style="vertical-align:top; margin:4px">
 
 <img src="https://camo.githubusercontent.com/cf1a0ef083a2372d7f66b4691d5d25bfd8c098f42871e8da90edb1f32ed187c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+ 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ 
+<img src="https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ 
+ <img src="https://camo.githubusercontent.com/cf47f22e684a7deb3fe00783eec8e7407be43a25da81cdecc270d6ffc5bd38e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d706f73746d616e" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ 
+ <img src="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ 
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jthernandez999&theme=tokyonight)
