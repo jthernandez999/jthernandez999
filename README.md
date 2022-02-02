@@ -8,6 +8,8 @@ I'm a Los Angeles based Full Stack Web Developer. As a problem solver who loves 
 - 🤔 I’m looking for help with freelance web development structuring. 
 - 💬 Ask me about space or bonsai. 
 - 📫 How to reach me: j.t.hernandez999@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... I have a black scottish terrier named Bentley. 
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: ... I consider my self an amateur astronomer. I own a CPC 800 GPS (XLT) COMPUTERIZED TELESCOPE. 
+
+“Dwell on the beauty of life. Watch the stars, and see yourself running with them.” — Marcus Aurelius, Meditations
 
