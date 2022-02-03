@@ -3,7 +3,7 @@ I'm a Los Angeles based Full Stack Web Developer. As a problem solver who loves 
 
 
 - I’m currently working on completing the Full Stack Web Development Program at BloomTech FKA Lambda School. 
-- 🌱 I’m currently learning algorithms in Computer Science. 
+- 🌱 I’m currently learning algorithms and MongoDB. 
 - 👯 I’m looking to collaborate on anything challenging. 
 - 🤔 I’m looking for help with freelance web development structuring. 
 - 💬 Ask me about space or bonsai. 
