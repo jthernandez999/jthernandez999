@@ -11,7 +11,7 @@ I'm a Los Angeles based Full Stack Web Developer. As a problem solver who loves 
 <!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: ... I consider myself an amateur astronomer. I own a CPC 800 GPS (XLT) COMPUTERIZED TELESCOPE. 🔭 🪐 👽 
 
- “Dwell on the beauty of life. Watch the stars, and see yourself running with them.” — Marcus Aurelius, Meditations
+<p align='center'> <i>“Dwell on the beauty of life. Watch the stars, and see yourself running with them.”</i> — Marcus Aurelius, Meditations </p>
 
 ## ✉️ Find me on:
 
