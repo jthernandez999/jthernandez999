@@ -19,7 +19,7 @@ I'm a Los Angeles based Full Stack Web Developer. As a problem solver who loves 
  <a href="mailto:j.t.hernandez999@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px background-color:white;"></a>
 </p>
 
-<br />
+<br/>
 
 ## 🧰 Languages and Tools:
 <p align="center">
