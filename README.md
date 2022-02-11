@@ -56,4 +56,4 @@ I'm a Los Angeles based Full Stack Web Developer. As a problem solver who loves 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=jthernandez999)
 
-[![Github](https://img.shields.io/github/followers/jthernandez999?label=Follow&style=social)](https://github.com/jthernandez999) -->
+<!-- [![Github](https://img.shields.io/github/followers/jthernandez999?label=Follow&style=social)](https://github.com/jthernandez999) -->
