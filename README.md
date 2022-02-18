@@ -49,7 +49,7 @@ I'm a Los Angeles based Full Stack Web Developer. I am near completion of a full
  
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jthernandez999&langs_count=8)](https://github.com/jthernnadez999/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jthernandez999&langs_count=8)](https://github.com/jthernnadez999/github-readme-stats) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jthernandez999&theme=tokyonight) 
 
