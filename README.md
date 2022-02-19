@@ -51,12 +51,14 @@ I'm a Los Angeles based Full Stack Web Developer. I am near completion of a full
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jthernandez999&langs_count=8)](https://github.com/jthernnadez999/github-readme-stats) -->
 <div align='center'>
+ 
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jthernandez999&show_icons=true&theme=tokyonight)   
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jthernandez999&theme=tokyonight) 
 
            
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jthernandez999&show_icons=true&theme=tokyonight)       
+    
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=jthernandez999)
