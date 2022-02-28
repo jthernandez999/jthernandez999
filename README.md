@@ -57,8 +57,7 @@ I'm a Los Angeles based Full Stack Web Developer. I am near completion of a full
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jthernandez999&theme=tokyonight) 
 
-           
-    
+          
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=jthernandez999)
