@@ -46,7 +46,7 @@ I'm a Los Angeles based Full Stack Web Developer. I am near completion of a full
  
  <img src="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  
- <img src='https://camo.githubusercontent.com/a2ef46f4aec1799b4366d5dd9e4cc60c250b9a4a1e0a4cea21bae63660b63a25/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6578742e6a732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6e657874646f746a73266c6f676f436f6c6f723d7768697465'>
+ <img src='https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs' alst='nextjs' height='40'>
 </p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jthernandez999&langs_count=8)](https://github.com/jthernnadez999/github-readme-stats) -->
