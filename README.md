@@ -46,7 +46,7 @@ I'm a Los Angeles based Full Stack Web Developer. I am near completion of a full
  
  <img src="https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  
- <img src='https://vercel.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F2LTO3hWQ4NdnedxuYZfwxa%2F74c017aa157d7986479f1e940448ef51%2FLogotype.png&w=3840&q=75' alst='nextjs' height='40'>
+ <img src='https://vercel.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fe5382hct74si%2F2LTO3hWQ4NdnedxuYZfwxa%2F74c017aa157d7986479f1e940448ef51%2FLogotype.png&w=3840&q=75' alt='nextjs' height='40'>
 </p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jthernandez999&langs_count=8)](https://github.com/jthernnadez999/github-readme-stats) -->
