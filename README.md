@@ -22,7 +22,6 @@ I'm a Los Angeles based Full Stack Web Developer. I am near completion of a full
 
 <p align="center"> 
 <!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> -->
- 
  <img src="https://camo.githubusercontent.com/cec92673ea713fa89ba2ae2033daf5851f6f39393ff5b93231aa707d424638d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73" alt="Python" height="40" style="vertical-align:top; margin:4px">
  
   <img src="https://camo.githubusercontent.com/137a7a0f28f9e326bcc81a5a0bd853c86435143774c15642d827a5788e778667/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d7265616374" alt="Python" height="40" style="vertical-align:top; margin:4px">
