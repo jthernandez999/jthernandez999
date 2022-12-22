@@ -7,7 +7,7 @@ I'm a Los Angeles based Full Stack Web Developer. I am near completion of a full
 - 💬 Ask me about space or bonsai!
 - ⚡ Fun fact: ... I consider myself an amateur astronomer. I own a CELESTRON COMPUTERIZED TELESCOPE... 🔭 🪐 👽 
 
-<p align='center'> <i>“Dwell on the beauty of life. Watch the stars, and see yourself running with them.”</i> — Marcus Aurelius, Meditations</p>
+<!-- <p align='center'> <i>“Dwell on the beauty of life. Watch the stars, and see yourself running with them.”</i> — Marcus Aurelius, Meditations</p> -->
 
 ## ✉️ Find me on:
 
