@@ -3,7 +3,7 @@
 I'm a Los Angeles based Full Stack Web Developer. I am near completion of a full stack web developer program at BloomTech. As a problem solver who loves facing challenges in my work, I'm excited to be at the development phase of my career as a web developer. I am passionate and ambitious about my work, and love to be on a team that questions possibilities!!!
 
 - 🌱 I’m currently working on mastering algorithms... 
-- 🤝 I’m looking to develop my skills as a software engineer / full stack web developer. 
+- 🤝 I’m looking to develop my skills as a Software Engineer / Full Stack Web Developer. 
 - 💬 Ask me about space or bonsai!
 - ⚡ Fun fact: ... I consider myself an amateur astronomer. I own a CELESTRON COMPUTERIZED TELESCOPE ... 🔭 🪐 👽 ...
 
