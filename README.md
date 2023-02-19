@@ -8,7 +8,7 @@ In addition to my insatiable thirst for new challenges, I thrive in an environme
 
 - 🌱 I’m currently working on mastering algorithms... 
 - 🤝 I’m looking to develop my skills as a Software Engineer / Full Stack Web Developer. 
-- 💬 Ask me about space or bonsai!
+- 💬 Ask me anything.
 - ⚡ Fun fact: ... I consider myself an amateur astronomer. I own a CELESTRON COMPUTERIZED TELESCOPE ... 🔭 🪐 👽 ...
 
 <!-- <p align='center'> <i>“Dwell on the beauty of life. Watch the stars, and see yourself running with them.”</i> — Marcus Aurelius, Meditations</p> -->
