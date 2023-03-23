@@ -58,5 +58,4 @@ In addition to my insatiable thirst for new challenges, I thrive in an environme
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jthernandez999&theme=tokyonight) 
 <!-- ![](https://visitor-badge.laobi.icu/badge?page_id=jthernandez999) -->
 <!-- [![Github](https://img.shields.io/github/followers/jthernandez999?label=Follow&style=social)](https://github.com/jthernandez999) -->
-
  
