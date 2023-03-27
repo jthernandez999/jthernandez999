@@ -5,9 +5,9 @@
 As an individual who relishes the opportunity to tackle obstacles in my work, I am thrilled to embark on the developmental phase of my career as a web developer. My unbridled passion and unwavering drive for my craft enable me to pursue ambitious goals and exceed expectations in every task I undertake.
 
 In addition to my insatiable thirst for new challenges, I thrive in an environment that fosters a collaborative and inquisitive approach towards innovative solutions. Joining a team that constantly questions and challenges the limits of what is possible is a source of inspiration and motivation for me, and I strive to bring my best self to every project.
-
+<!-- 
 - 🌱 I’m currently working on mastering algorithms... 
-- 🤝 I’m looking to develop my skills as a Software Engineer / Full Stack Web Developer. 
+- 🤝 I’m looking to develop my skills as a Software Engineer / Full Stack Web Developer.  -->
 - 💬 Ask me anything.
 - ⚡ Fun fact: ... I consider myself an amateur astronomer. I own a CELESTRON COMPUTERIZED TELESCOPE ... 🔭 🪐 👽 ...
 
