@@ -2,9 +2,9 @@
 
  I am a Full Stack Web Developer and Software Engineer currently located in the suburbs of the city of Los Angeles.
  
-As an individual who relishes the opportunity to tackle obstacles in my work, I am thrilled to embark on the developmental phase of my career as a web developer. My unbridled passion and unwavering drive for my craft enable me to pursue ambitious goals and exceed expectations in every task I undertake.
+I thrive on overcoming challenges. My boundless passion and relentless determination drive me to set ambitious goals and consistently exceed expectations.
 
-In addition to my insatiable thirst for new challenges, I thrive in an environment that fosters a collaborative and inquisitive approach toward innovative solutions. Joining a team that constantly questions and challenges the limits of what is possible is a source of inspiration and motivation for me, and I strive to bring my best self to every project.
+I flourish in environments that encourage collaboration and a thirst for innovative solutions. Being part of a team that continuously questions and pushes the boundaries of what's possible is a constant source of inspiration and motivation for me, and I'm committed to delivering my best on every project.
 <!-- 
 - 🌱 I’m currently working on mastering algorithms... 
 - 🤝 I’m looking to develop my skills as a Software Engineer / Full Stack Web Developer.  -->
