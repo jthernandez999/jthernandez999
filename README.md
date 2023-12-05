@@ -1,6 +1,6 @@
 ### Hello World!👋
 
- I am a Full Stack Web Developer and Software Engineer currently located in the suburbs of the city of Los Angeles.
+ I am a Full Stack Web Engineer currently located in the suburbs of the city of Los Angeles.
  
 I thrive on overcoming challenges. My boundless passion and relentless determination drive me to set ambitious goals and consistently exceed expectations.
 
