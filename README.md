@@ -1,6 +1,4 @@
-### Hello World!👋
-
- I am a Full Stack Engineer currently located in the suburbs of the city of Los Angeles.
+Full Stack Engineer.
  
 I thrive on overcoming challenges. My boundless passion and relentless determination drive me to set ambitious goals and consistently exceed expectations.
 
