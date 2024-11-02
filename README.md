@@ -1,8 +1,8 @@
-Full Stack Engineer.
- 
-I thrive on overcoming challenges. My boundless passion and relentless determination drive me to set ambitious goals and consistently exceed expectations.
+Full stack engineer.
 
-I flourish in environments that encourage collaboration and a thirst for innovative solutions. Being part of a team that continuously questions and pushes the boundaries of what's possible is a constant source of inspiration and motivation for me, and I'm committed to delivering my best on every project.
+I thrive on overcoming challenges. My boundless passion and relentless determination, drive me to set ambitious goals and consistently exceed expectations. 
+
+I flourish in environments that encourage collaboration and a thirst for innovation and motivation. 
 <!-- 
 - 🌱 I’m currently working on mastering algorithms... 
 - 🤝 I’m looking to develop my skills as a Software Engineer / Full Stack Web Developer.  -->
